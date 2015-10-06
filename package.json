@@ -1,5 +1,5 @@
 {
-	"name": "truffler",
+	"name": "truffler-jordan",
 	"version": "1.0.5",
 
 	"description": "Access web pages programmatically with PhantomJS, for running tests or scraping information",
@@ -12,9 +12,9 @@
 
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nature/truffler.git"
+		"url": "https://github.com/j1ands/truffler-jordan.git"
 	},
-	"homepage": "https://github.com/nature/truffler",
+	"homepage": "https://github.com/j1ands/truffler-jordan",
 	"bugs": "https://github.com/nature/truffler/issues",
 	"license": "MIT",
 
